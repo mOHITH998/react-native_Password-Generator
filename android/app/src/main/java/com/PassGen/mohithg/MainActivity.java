@@ -1,4 +1,4 @@
-package com.PassGen.rn_app;
+package com.passGen.mohithg;
 
 import android.os.Bundle;
 
