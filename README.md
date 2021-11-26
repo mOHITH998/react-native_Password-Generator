@@ -2,14 +2,24 @@
 
 ### Secure your account by generating strong passwords!
 ---
-## Features:
+## `Features:`
 * 4 Options[uppercase, lowercase, number, symbol] to generate random string.
 * You can Copy to Clipboard By pressing the Button: "Copy to Clipboard".
 * Generate Password Length upto 32 characters with Guide.
 
-## Screenshot
+## `Screenshot`
 ---
 ![image](img/screenshot(2).jpg)
+
+> ## `Requirements:`
+* expo sdk >=40`
+* Android Emulator/ios Simulator
+
+> ## `Installation: `
+```
+$ yarn install
+```
+
 
 
 
